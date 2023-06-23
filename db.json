@@ -1,6 +1,10 @@
 {
   "posts": [
-    { "id": 1, "name":"Peter" }
+    { "id": 1, "name":"Peter", "department":"Finance", "designation": "Manager", "email":"Peter@xyz.com" },
+    {"id": 2, "name":"Sam", "department":"IT", "designation": "Developer", "email":"sam@xyz.com"},
+    {"id": 3, "name":"Laurel", "department":"QA", "designation": "Tester", "email":"laural@xyz.com"},
+     {"id": 4, "name":"Kate", "department":"IT", "designation": "Developer", "email":"kate@xyz.com"},
+     {"id": 5, "name":"Emma", "department":"Sales", "designation": "Analyst", "email":"emma@xyz.com"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
