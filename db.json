@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "user": [
     { "id": 1, "name":"Peter", "department":"Finance", "designation": "Manager", "email":"Peter@xyz.com" },
     {"id": 2, "name":"Sam", "department":"IT", "designation": "Developer", "email":"sam@xyz.com"},
     {"id": 3, "name":"Laurel", "department":"QA", "designation": "Tester", "email":"laural@xyz.com"},
